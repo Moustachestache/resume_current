@@ -1,5 +1,5 @@
 # Maxime Jochum
-Junior Developer
+<sup>Junior Developer</sup>
 
 Socials: [[linkedin](https://www.linkedin.com/in/maxime-jochum/)]
 
