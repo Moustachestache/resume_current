@@ -1,8 +1,7 @@
-<div align="center">
+
 #Maxime Jochum
 ###Junior Developer
 [linkedin](https://www.linkedin.com/in/maxime-jochum/))
-</div>
 
 ##summary
 Languages: C  C++
