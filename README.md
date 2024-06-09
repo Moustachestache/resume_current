@@ -1,12 +1,13 @@
-<div align="center">maxime jochum
-job title
-links
+<div align="center">#Maxime **Jochum**
+###Junior Developer
+[linkedin](https://www.linkedin.com/in/maxime-jochum/))
 </div>
 
-summary
-languages x x x x x
-technologies docker git debian etc
-portofolio - links
+##summary
+Languages: C  C++
+Technologies: docker  git  debian  vim
+Portofolio: [htto server]([[docs/CONTRIBUTING.md](https://www.linkedin.com/in/maxime-jochum/](https://github.com/Moustachestache/webserv)))
+
 
 education
 42 - tronmc commun (20 mois)
