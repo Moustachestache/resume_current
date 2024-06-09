@@ -1,4 +1,5 @@
-<div align="center">#Maxime **Jochum**
+<div align="center">
+#Maxime Jochum
 ###Junior Developer
 [linkedin](https://www.linkedin.com/in/maxime-jochum/))
 </div>
