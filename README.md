@@ -1,6 +1,6 @@
 
-#Maxime Jochum
-###Junior Developer
+# Maxime Jochum
+### Junior Developer
 [linkedin](https://www.linkedin.com/in/maxime-jochum/))
 
 ##summary
