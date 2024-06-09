@@ -12,9 +12,9 @@ docker  git  debian  vim
 [[webserver](https://github.com/Moustachestache/webserv)]  [[wolfenstein C clone](https://github.com/Moustachestache/cub3d)] [[re-engineered bash](https://github.com/Moustachestache/42minishell)]
 
 
-education
-42 - tronmc commun (20 mois)
-cambridge celta
+### Education
+**42** - Tronc commun
+**Cambridge** - CELTA
 
 past work experience
 ih network (Kharkiv, viseu)
