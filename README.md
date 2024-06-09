@@ -3,10 +3,10 @@
 ## Junior Developer
 [linkedin](https://www.linkedin.com/in/maxime-jochum/)
 
-##summary
-Languages: C  C++
-Technologies: docker  git  debian  vim
-Portofolio: [htto server]([[docs/CONTRIBUTING.md](https://www.linkedin.com/in/maxime-jochum/](https://github.com/Moustachestache/webserv)))
+## Summary
+### Languages: C  C++
+### Technologies: docker  git  debian  vim
+### Portofolio: [htto server]([[docs/CONTRIBUTING.md](https://www.linkedin.com/in/maxime-jochum/](https://github.com/Moustachestache/webserv)))
 
 
 education
