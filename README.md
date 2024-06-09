@@ -1,12 +1,15 @@
-
 # Maxime Jochum
-## Junior Developer
-[linkedin](https://www.linkedin.com/in/maxime-jochum/)
+Junior Developer
 
-## Summary
-### Languages: C  C++
-### Technologies: docker  git  debian  vim
-### Portofolio: [[webserver](https://github.com/Moustachestache/webserv)]  [[wolfenstein C clone](https://github.com/Moustachestache/cub3d)] [[re-engineered bash](https://github.com/Moustachestache/42minishell)]
+Socials: [[linkedin](https://www.linkedin.com/in/maxime-jochum/)]
+
+# in short
+### Languages:
+C  C++
+### Technologies:
+docker  git  debian  vim
+### Portofolio:
+[[webserver](https://github.com/Moustachestache/webserv)]  [[wolfenstein C clone](https://github.com/Moustachestache/cub3d)] [[re-engineered bash](https://github.com/Moustachestache/42minishell)]
 
 
 education
