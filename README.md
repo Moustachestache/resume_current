@@ -1,7 +1,7 @@
 
 # Maxime Jochum
-### Junior Developer
-[linkedin](https://www.linkedin.com/in/maxime-jochum/))
+## Junior Developer
+[linkedin](https://www.linkedin.com/in/maxime-jochum/)
 
 ##summary
 Languages: C  C++
