@@ -5,6 +5,7 @@
 <h1 style="display: flex; align-items: center">
   <img src="LI-In-Bug.png" height="35px" />Maxime JOCHUM <font color="grey">junior developer</font>
 </h1>
+$\textcolor{red}{\textsf{junior developer}}$
 
 ### 🩳 in short 
 Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
