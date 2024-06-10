@@ -3,8 +3,7 @@
 > if you are a recruiter with questions, find me on linkedin!
 
 <h1 style="display: flex; align-items: center">
-  <img src="./LI-In-Bug.png" height="35px" />Maxime JOCHUM
-  $\large{\textsf{junior developer}}$
+  <img src="LI-In-Bug.png" height="35px" />Maxime JOCHUM
 </h1>
 
 ### 🩳 in short 
