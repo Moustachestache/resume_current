@@ -10,7 +10,7 @@ I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine
 ## Languages:
 | C | C++ | Typescript | Python
 | ---      | ---       |---       |---       |
-|:star::star::star:|:star::star::star:|:star::star:|:star::star:|
+|:full_moon::full_moon::full_moon::new_moon::new_moon:|:full_moon::full_moon::full_moon::new_moon::new_moon:|:full_moon::full_moon::new_moon::new_moon::new_moon:|:full_moon::full_moon::new_moon::new_moon::new_moon:|
 
 
 ## Technologies:
