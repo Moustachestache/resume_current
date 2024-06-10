@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> currently furbishing (hehe) this .md
+> if you are a recruiter with questions, find me on linkedin!
+
 # <img src="./LI-In-Bug.png" height="35px" />Maxime JOCHUM <sub>junior developer</sub>
 
 ### 🩳 in short 
