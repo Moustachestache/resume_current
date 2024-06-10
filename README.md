@@ -17,7 +17,11 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 |:full_moon::full_moon::full_moon::new_moon::new_moon:|:full_moon::full_moon::full_moon::new_moon::new_moon:|:full_moon::full_moon::new_moon::new_moon::new_moon:|:full_moon::full_moon::new_moon::new_moon::new_moon:|
 
 
-## Technologies:
+## Technologies and Ablities:
+| debian | git | photoshop | docker | shell |networking| OOP | testing |
+| ---      | ---       |---       |---       |---       |---       |---       |---       |
+|       |               |     |       |       |       |       |
+       
 
 Education:
 Projects:
