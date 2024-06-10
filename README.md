@@ -2,7 +2,7 @@
 > currently furbishing (hehe) this .md
 > if you are a recruiter with questions, find me on linkedin!
 
-# Maxime JOCHUM <a href="https://www.linkedin.com/in/maxime-jochum/"><img style="margin-top: 10px;" src="LI-In-Bug.png" height="35px"/></a><br /><sup>junior developer</sup>
+# Maxime JOCHUM <a href="https://www.linkedin.com/in/maxime-jochum/"><img src="LI-In-Bug.png" height="25px"/></a><br /><sup>junior developer</sup>
 
 ### 🩳 in short 
 Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
