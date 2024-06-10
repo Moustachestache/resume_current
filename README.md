@@ -1,18 +1,20 @@
 # [:fa-linkedin-square:](https://www.linkedin.com/in/maxime-jochum/) Maxime JOCHUM<small>junior developer</small>
 
 ### 🩳 in short 
-Recently graduated from the** 42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
+Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
 Our [graduating project ](#soon)is a pong-like web-based game implemented with a modern tech stack.
 Before this, I taught english in world recognized ESL (english as a second language) schools.
 I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
 
-------------
-**Languages:** 
-| ---      | ---       |
-| C | C++ | Typescript| Python
+
+## Languages:
+| C | C++ | Typescript | Python
+| ---      | ---       |---       |---       |
+|:star::star::star:|:star::star::star:|:star::star:|:star::star:|
 
 
-Technologies:
+## Technologies:
+
 Education:
 Projects:
 
