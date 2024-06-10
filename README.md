@@ -18,9 +18,9 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
 
 ## Technologies and Ablities:
-| debian | git | photoshop | docker | shell |networking| OOP | testing |
-| ---      | ---       |---       |---       |---       |---       |---       |---       |
-|       |               |     |       |       |       |       |
+debian, git, photoshop, docker, shell, networking, OOP
+
+testing and debugging, various soft skills, collaborative approach, 
        
 
 Education:
