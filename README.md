@@ -2,13 +2,13 @@
 > currently furbishing (hehe) this .md
 > if you are a recruiter with questions, find me on linkedin!
 
-# <img src="./LI-In-Bug.png" height="35px" />Maxime JOCHUM <sub>junior developer</sub>
+# <img src="./LI-In-Bug.png" height="35px" />Maxime JOCHUM <br/>junior developer
 
 ### 🩳 in short 
 Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
-Our [graduating project ](#soon)is a pong-like web-based game implemented with a modern tech stack.
-Before this, I taught english in world recognized ESL (english as a second language) schools.
-I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
+<br/>Our [graduating project ](#soon)is a pong-like web-based game implemented with a modern tech stack.
+<br/>Before this, I taught english in world recognized ESL (english as a second language) schools.
+<br/>I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
 
 
 ## Languages:
