@@ -1,4 +1,4 @@
-# [:fa-linkedin-square:](https://www.linkedin.com/in/maxime-jochum/) Maxime JOCHUM<small>junior developer</small>
+# [:fa-linkedin-square:](https://www.linkedin.com/in/maxime-jochum/) Maxime JOCHUM <small>junior developer</small>
 
 ### 🩳 in short 
 Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
