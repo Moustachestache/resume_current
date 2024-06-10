@@ -1,4 +1,4 @@
-# ![](./LI-In-Bug.png) Maxime JOCHUM <sub>junior developer</sub>
+# <img src="./LI-In-Bug.png" height="50px" /> Maxime JOCHUM <sub>junior developer</sub>
 
 ### 🩳 in short 
 Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
