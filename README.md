@@ -3,8 +3,8 @@
 > if you are a recruiter with questions, find me on linkedin!
 
 <h1 style="display: inline; align-items: center">
-  <img src="LI-In-Bug.png" height="35px" />Maxime JOCHUM 
-${\color{grey}junior  developer}$
+  <img src="LI-In-Bug.png" height="35px"/> Maxime JOCHUM
+  <span color="red">junior developer</span>
 </h1>
 
 ### 🩳 in short 
