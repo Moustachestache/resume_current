@@ -3,7 +3,7 @@
 > if you are a recruiter with questions, find me on linkedin!
 
 <h1 style="display: flex; align-items: center">
-  <img src="LI-In-Bug.png" height="35px" />Maxime JOCHUM
+  <img src="LI-In-Bug.png" height="35px" />Maxime JOCHUM <font color="grey">junior developer</font>
 </h1>
 
 ### 🩳 in short 
