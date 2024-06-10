@@ -4,7 +4,7 @@
 
 <h1 style="display: inline; align-items: center">
   <img src="LI-In-Bug.png" height="35px" />Maxime JOCHUM 
-$${\color{red}junior developer}$$
+${\color{red}junior developer}$
 </h1>
 
 ### 🩳 in short 
