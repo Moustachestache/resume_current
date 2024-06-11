@@ -31,7 +31,7 @@ testing and debugging, various soft skills, collaborative approach,
 |punctuality|prioritization|resilience|creativity|accountability|
 
 | Social | | | | |
-| ---   | ---   | ---   | ---   | ---   |
+| ---   | ---   | ---   | ---   |
 |building rapport|integrability|open to criticism|leadership|
 |collaboration|Emotional Intelligence|intercultural competence|reading the room-ism|
        
