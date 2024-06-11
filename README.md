@@ -9,6 +9,7 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br/>Our [graduating project ](#soon)is a pong-like web-based game implemented with a modern tech stack.
 <br/>Before this, I taught english in world recognized ESL (english as a second language) schools.
 <br/>I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
+<br/>Teaching was very formative, and taught me many soft skills that are relevant in my IT career.
 
 
 ## Languages:
@@ -17,10 +18,19 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 |✅✅✅☑️☑️|✅✅✅☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️
 
 
-## Technologies and Ablities:
+## Tools and Technologies
 debian, git, photoshop, docker, shell, networking, OOP
 
 testing and debugging, various soft skills, collaborative approach, 
+## Skills and Soft Skills
+|Personal & Organisational|
+|---|
+|adaptability|preparation|communication|negotiation|time management|
+|punctuality|prioritization|resilience|creativity|accountability|
+
+|Social|
+|---|
+|building rapport|integrability|open to criticism|leadership|reading the room-ism|
        
 
 Education:
