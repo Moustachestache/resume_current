@@ -42,7 +42,7 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 |building rapport|integrability|open to criticism|leadership|
 |collaboration|Emotional Intelligence|intercultural competence|reading the room-ism|
        
-[^1]: але це харківський український.
+[^1]: але це харківська українська.
 <!--
 Ozymandias
 I met a traveller from an antique land
