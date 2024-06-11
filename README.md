@@ -13,6 +13,13 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br />I speak English and French, and a sprinkle of Ukrainian[^1].
 
 
+## Projects:
+
+## Work experience:
+
+## on the 42 Education:
+
+
 ## Languages:
 | C | C++ | Typescript | Python | php |
 | ---      | ---       |---       |---       | --- |
@@ -35,11 +42,6 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 |building rapport|integrability|open to criticism|leadership|
 |collaboration|Emotional Intelligence|intercultural competence|reading the room-ism|
        
-
-Education:
-Projects:
-
-Work experience:
 [^1]: але це харківський український.
 <!--
 Ozymandias
