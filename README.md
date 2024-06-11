@@ -12,9 +12,9 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
 
 ## Languages:
-| C | C++ | Typescript | Python
-| ---      | ---       |---       |---       |
-|:full_moon::full_moon::full_moon::new_moon::new_moon:|:full_moon::full_moon::full_moon::new_moon::new_moon:|:full_moon::full_moon::new_moon::new_moon::new_moon:|:full_moon::full_moon::new_moon::new_moon::new_moon:|
+| C | C++ | Typescript | Python | php |
+| ---      | ---       |---       |---       | --- |
+|✅✅✅☑️☑️|✅✅✅☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️
 
 
 ## Technologies and Ablities:
