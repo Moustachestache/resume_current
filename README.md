@@ -19,8 +19,8 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
 ## on the 42 Education:
 
-
-## Languages:
+------------------------------------------------------------------
+## Languages
 | C | C++ | Typescript | Python | php |
 | ---      | ---       |---       |---       | --- |
 |✅✅✅☑️☑️|✅✅✅☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️
