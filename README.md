@@ -24,12 +24,12 @@ debian, git, photoshop, docker, shell, networking, OOP
 testing and debugging, various soft skills, collaborative approach, 
 ## Skills and Soft Skills
 |Personal & Organisational|
-|---|
+|---|---|---|---|---|
 |adaptability|preparation|communication|negotiation|time management|
 |punctuality|prioritization|resilience|creativity|accountability|
 
 |Social|
-|---|
+|---|---|---|---|---|
 |building rapport|integrability|open to criticism|leadership|reading the room-ism|
        
 
