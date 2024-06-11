@@ -20,9 +20,9 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
 
 ## Tools and Technologies
-       debian, git, photoshop, docker, shell, networking, OOP programming
+       debian       git       docker       shell       networking       OOP programming
 
-       testing and debugging, various soft skills, collaborative approach, 
+       testing and debugging       photoshop       collaborative approach, 
 
 ## Skills
 | Personal & Organisational | | | | |
