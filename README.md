@@ -14,9 +14,6 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
 
 ## Projects:
-<span style="display:block; width: 100px;">a</span>
-<span style="display:block; width: 33%;">b</span>
-<span style="display:block; width: 33%;">c</span>
 
 ## Work experience:
 
@@ -34,8 +31,8 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
        testing and debugging       photoshop       collaborative approach, 
 
-## Skills
-| Personal & Organisational | | | | |
+
+| ##  Personal & Organisational Skills | | | | |
 | ---   | ---   | ---   | ---   | ---   |
 |adaptability|preparation|communication|negotiation|time management|
 |punctuality|prioritization|resilience|creativity|accountability|
