@@ -1,8 +1,7 @@
 > [!IMPORTANT]
-> currently furbishing (hehe) this .md
-> if you are a recruiter with questions, find me on linkedin!
+> References available on demand.
 
-# Maxime JOCHUM <a href="https://www.linkedin.com/in/maxime-jochum/"><img src="LI-In-Bug.png" height="20px"/></a><br /><sup>junior developer</sup>
+# Maxime JOCHUM <br /><sup>junior developer <a href="https://www.linkedin.com/in/maxime-jochum/"> <img src="https://i.imgur.com/noEWd53.png" height="20px"/></sup></a>
 
 ### 🩳 in short 
 Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
@@ -25,8 +24,17 @@ Our own amulation of the Bourne Again Shell.
 <br />Despite the headache that this problem can be, we found that it taught us a lot about the shell environment and how it is used.
 
 ## Work experience:
+### 2023 - 2024
+STUDENT DEVELOPER - C and C++
+<br/><sup>FRANCE, PERPIGNAN</sup>
 
-## on the 42 Education:
+### 2024 - 2023
+TEACHER OF ENGLISH - Schools and B2B
+<br/><sup>UKRAINE, PORTUGAL, FRANCE, IRELAND & SWITZERLAND</sup>
+
+### 2014
+CELTA (Cambridge Teaching Certificate)
+<br/><sup>IRELAND, DUBLIN</sup>
 
 ------------------------------------------------------------------
 ## Languages
@@ -52,6 +60,8 @@ testing and debugging       photoshop       collaborative approach,
 | ---   | ---   | ---   | ---   |
 |building rapport|integrability|open to criticism|leadership|
 |collaboration|emotional Intelligence|intercultural competence|reading the room-ism|
+
+<img src="https://imgs.xkcd.com/comics/code_lifespan.png"/>
        
 [^1]: але це харківська українська.
 <!--
