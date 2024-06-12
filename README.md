@@ -32,12 +32,13 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
        testing and debugging       photoshop       collaborative approach, 
 
 
-| <h2>Personal & Organisational Skills</h2> | | | | |
+## Skills
+| Personal & Organisational | | | | |
 | ---   | ---   | ---   | ---   | ---   |
 |adaptability|preparation|communication|negotiation|time management|
 |punctuality|prioritization|resilience|creativity|accountability|
 
-| Social | | | |
+| Team & Social | | | |
 | ---   | ---   | ---   | ---   |
 |building rapport|integrability|open to criticism|leadership|
 |collaboration|Emotional Intelligence|intercultural competence|reading the room-ism|
