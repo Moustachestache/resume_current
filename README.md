@@ -14,10 +14,10 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
 
 ## Projects:
-<div class="wrap" style="display:inline; width: 33%">
-       <div>a</div>
-       <div>b</div>
-       <div>c</div>
+<div class="wrap">
+       <div style="display:inline; width: 33%">a</div>
+       <div style="display:inline; width: 33%">b</div>
+       <div style="display:inline; width: 33%">c</div>
 </div>
 
 ## Work experience:
