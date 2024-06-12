@@ -15,7 +15,14 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 ## School Projects:
 ### CUB3D [<sup>[repo]</sup>](https://github.com/Moustachestache/cub3d)
 A wolfenstein-lite, where we had to code a ray caster from the ground up.
-We decided to add Animated textures, doors to open, and FPS counter that can display a graph.
+<br />We decided to add a couple of extra things (to add to the learning experience) ...
+<br />Animated textures, doors that open and close, an FPS counter that can display a graph, basic collision, and a minimap.
+### Webserver [<sup>[repo]</sup>](https://github.com/Moustachestache/webserv)
+An HTTP server developped in C++98. it services GET, POST and DELETE requests.
+<br />We are able to upload anything to it, and we can pass POST or GET data to the CGI.
+### Minishell [<sup>[repo]</sup>](https://github.com/Moustachestache/42minishell)
+Our own amulation of the Bourne Again Shell.
+<br />Despite the headache that this problem can be, we found that it taught us a lot about the shell environment and how it is used.
 
 ## Work experience:
 
