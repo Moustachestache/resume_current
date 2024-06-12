@@ -13,7 +13,7 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br />I speak English and French, and a sprinkle of Ukrainian[^1].
 
 ## School Projects:
-### CUB3D [<sup>[link</sup>]](https://github.com/Moustachestache/cub3d)
+### CUB3D [<sup>[repo]</sup>](https://github.com/Moustachestache/cub3d)
 A wolfenstein-lite, where we had to code a ray caster from the ground up.
 We decided to add Animated textures, doors to open, and FPS counter that can display a graph.
 
