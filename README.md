@@ -12,8 +12,10 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br/>Teaching was very formative, and taught me many soft skills that are relevant in my IT career.
 <br />I speak English and French, and a sprinkle of Ukrainian[^1].
 
-
-## Projects:
+## School Projects:
+### CUB3D [<sup>[link</sup>]](https://github.com/Moustachestache/cub3d)
+A wolfenstein-lite, where we had to code a ray caster from the ground up.
+We decided to add Animated textures, doors to open, and FPS counter that can display a graph.
 
 ## Work experience:
 
@@ -27,9 +29,10 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 
 
 ## Tools and Technologies
-       debian       git       docker       shell       networking       OOP programming
 
-       testing and debugging       photoshop       collaborative approach, 
+debian       git       docker       shell       networking       OOP programming
+
+testing and debugging       photoshop       collaborative approach, 
 
 
 ## Skills
@@ -41,7 +44,7 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 | Team & Social | | | |
 | ---   | ---   | ---   | ---   |
 |building rapport|integrability|open to criticism|leadership|
-|collaboration|Emotional Intelligence|intercultural competence|reading the room-ism|
+|collaboration|emotional Intelligence|intercultural competence|reading the room-ism|
        
 [^1]: але це харківська українська.
 <!--
