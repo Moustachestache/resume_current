@@ -12,30 +12,36 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br />I speak English and French, and a sprinkle of Ukrainian[^1].
 
 ## School Projects:
-### CUB3D [<sup>[repo]</sup>](https://github.com/Moustachestache/cub3d)
-A wolfenstein-lite, where we had to code a ray caster from the ground up.
-<br />We decided to add a couple of extra things (to add to the learning experience) ...
-<br />Animated textures, doors that open and close, an FPS counter that can display a graph, basic collision, and a minimap.
-
 ### Webserver [<sup>[repo]</sup>](https://github.com/Moustachestache/webserv)
 An HTTP server developped in C++98. it services GET, POST and DELETE requests.
 <br />We are able to upload anything to it, and we can pass POST or GET data to the CGI.
+<br />There is a basic version of cookies that stores a username for a session.
+
+### CUB3D [<sup>[repo]</sup>](https://github.com/Moustachestache/cub3d)
+A wolfenstein-like ... lite, where we had to code a ray caster from the ground up.
+<br />We decided to add a couple of extra things (to add to the learning experience) ...
+<br />Animated textures, doors that open and close, an FPS counter that can display a graph, basic collision, and a minimap.
 
 ### Minishell [<sup>[repo]</sup>](https://github.com/Moustachestache/42minishell)
 Our own emulation of the Bourne Again Shell.
 <br />Despite the headache that this problem can be, we found that it taught us a lot about the shell environment and how it is used.
+<br />We find ourselves to now be pretty confident shell users.
 
-## Work experience:
+## Work & Learning experience:
 ### 2023 - 2024
 STUDENT DEVELOPER - C and C++
 <br/><sup>FRANCE, PERPIGNAN</sup>
 
-### 2024 - 2023
+### 2014 - 2023
 TEACHER OF ENGLISH - Schools and B2B
 <br/><sup>UKRAINE, PORTUGAL, FRANCE, IRELAND & SWITZERLAND</sup>
 
 ### 2014
 CELTA (Cambridge Teaching Certificate)
+<br/><sup>IRELAND, DUBLIN</sup>
+
+### 2013
+CPE (Cambridge Proficiency in English)
 <br/><sup>IRELAND, DUBLIN</sup>
 
 ------------------------------------------------------------------
