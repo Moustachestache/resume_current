@@ -28,11 +28,11 @@ Our own emulation of the Bourne Again Shell.
 <br />We find ourselves to now be pretty confident shell users.
 
 ### more ...
-[fdf](https://github.com/Moustachestache/fdf)<br /><sup>Wireframe render of a simple 2.5D map.</sup>
-[push swap](https://github.com/Moustachestache/push_swap)<br /><sup>Sorting stacks and discovering sortin algorithms.</sup>
-[philosopher](https://github.com/Moustachestache/philosophers)<br /><sup>"Solving" the dining philosophers' problem.</sup>
-[libft](https://github.com/Moustachestache/libft)<br /><sup>Re-coding our own library of functions.</sup>
-[printf](https://github.com/Moustachestache/ft_printf)<br /><sup>Re-coding printf and discovering variadic functions.</sup>
+[fdf](https://github.com/Moustachestache/fdf) Wireframe render of a simple 2.5D map.
+<br />[push swap](https://github.com/Moustachestache/push_swap) Sorting stacks and discovering sortin algorithms.
+<br />[philosopher](https://github.com/Moustachestache/philosophers) "Solving" the dining philosophers' problem.
+<br />[libft](https://github.com/Moustachestache/libft) Re-coding our own library of functions.>
+<br />[printf](https://github.com/Moustachestache/ft_printf) Re-coding printf and discovering variadic functions.
 
 ## Work & Learning experience:
 ### 2023 - 2024
