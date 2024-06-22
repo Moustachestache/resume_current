@@ -31,7 +31,7 @@ Our own emulation of the Bourne Again Shell.
 [fdf](https://github.com/Moustachestache/fdf) Wireframe render of a simple 2.5D map.
 <br />[push swap](https://github.com/Moustachestache/push_swap) Sorting stacks and discovering sortin algorithms.
 <br />[philosopher](https://github.com/Moustachestache/philosophers) "Solving" the dining philosophers' problem.
-<br />[libft](https://github.com/Moustachestache/libft) Re-coding our own library of functions.>
+<br />[libft](https://github.com/Moustachestache/libft) Re-coding our own library of functions.
 <br />[printf](https://github.com/Moustachestache/ft_printf) Re-coding printf and discovering variadic functions.
 
 ## Work & Learning experience:
