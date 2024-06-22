@@ -4,7 +4,7 @@
 # Maxime JOCHUM <br /><sup>junior developer <a href="https://www.linkedin.com/in/maxime-jochum/"> <img src="https://i.imgur.com/noEWd53.png" height="20px"/></sup></a>
 
 ### 🩳 in short 
-Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
+Graduating from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C** and **C++**.
 <br/>Our [graduating project ](#soon)is a pong-like web-based game implemented with a modern tech stack.
 <br/>Before this, I taught english in world recognized ESL (english as a second language) schools.
 <br/>I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
