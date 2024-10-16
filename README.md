@@ -58,18 +58,19 @@ CPE (Cambridge Proficiency in English)
 |✅✅✅☑️☑️|✅✅✅☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️|✅✅☑️☑️☑️
 
 
-## Tools and Technologies
-
-debian       git       docker       shell       networking       OOP programming
-
-testing and debugging       photoshop       collaborative approach, 
-
 
 ## Skills
+| Frameworks and Tools | | | | |
+| ---   | ---   | ---   | ---   | ---   |
+|Linux (debian)|git|docker|shell|networking|
+|photoshop|GCC|Django|mythril.js|bootstrap|
+
+
 | Personal & Organisational | | | | |
 | ---   | ---   | ---   | ---   | ---   |
 |adaptability|preparation|communication|negotiation|time management|
 |punctuality|prioritization|resilience|creativity|accountability|
+
 
 | Team & Social | | | |
 | ---   | ---   | ---   | ---   |
