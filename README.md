@@ -4,7 +4,7 @@
 # Maxime JOCHUM <br /><sup>junior developer <a href="https://www.linkedin.com/in/maxime-jochum/"> <img src="https://i.imgur.com/noEWd53.png" height="20px"/></sup></a>
 
 ### 🩳 in short
-Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C**, **C++** and a **Django** / **Javascript** web-stack..
+Graduated from the **42Network** branch in Southern France, after a 20 months cursus, with an academic focus on **C**, **C++** and a **Django** / **Javascript** web-stack. Currently, I am learning **Ruby** and **Ruby On Rails**.
 <br/>Our [graduating project ](https://github.com/TimothyREMY/ft_transcendance) is a pong-like web-based game implemented from the ground up with a modern tech stack, a responsive UI and thought-out UX, as well and a websocket and an API for the backend.
 <br/>Before this, I taught english in world recognized ESL (english as a second language) schools.
 <br/>I was lucky enough to work in France, Portugal, Ireland, Switzerland and Ukraine.
