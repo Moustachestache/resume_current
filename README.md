@@ -12,7 +12,7 @@ Graduated from the **42Network** branch in Southern France, after a 20 months cu
 <br />I speak English and French, and a sprinkle of Ukrainian[^1].
 
 ## School Projects:
-### Transcendance [<sup>[repo]</sup>](https://github.com/TimothyREMY/ft_transcendance)
+### Transcendance [<sup>[repo]</sup>](https://github.com/Moustachestache/ft_transcendance)
 A single page web application where users can play pong against one another, take part in tournaments.
 <br />Several things were implemented as part of the discovery based learning:
 <br />ELK (Elasticsearch, Kibana and Logstash) for logging and log management, a websocket to manage real-time gameplay (both in 1v1 and Tournament games), OAuth registration and connection with our school's API, responsive frontend implementation with Bootstrap (allowing for extended browser compatibility) and support on most devices (apple watch not included).
